@@ -1,0 +1,15 @@
+<form>
+  <div class="form-group">
+      <label for="name">Enter Name</label>
+      <input type="text" id="" class="form-control" [(ngModel)]="username" name="name">
+  </div>
+ <div class="form-group">
+   <label for="staus">Current Status</label>
+   <input type="text" class="form-control" id="" [(ngModel)]="status" name="status">
+ </div>
+ 
+  <button class="btn btn-primary" (click)="save()">Save</button>
+  <button class="btn btn-primary" (click)="retrieve()">Retrieve</button>
+  {{username}} <br>
+  {{status}}
+  </form> 
