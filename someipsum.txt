@@ -5,3 +5,5 @@ Master change in new line some e change from branch after fixing rebasing confli
 
 
 Adding changes from master before changed after fixing rebasing conflicts form branch
+
+Changes to test remote rebasing functionalities
