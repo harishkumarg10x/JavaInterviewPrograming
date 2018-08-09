@@ -12,3 +12,5 @@ Change text in working directory state
 
 Some changes in master when branch have some changes 
 
+Add some more text in master for rebasing example
+
