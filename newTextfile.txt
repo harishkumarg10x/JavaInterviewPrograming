@@ -1,3 +1,5 @@
-Some new text file to test tracking change acutal content
+Some new text file to test tracking removed
 
-Some changes done through branching all the changes are in barnch
+Some changes done through branching all the  removed some data
+
+Added new line to from the branch
