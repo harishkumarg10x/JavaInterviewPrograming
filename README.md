@@ -8,3 +8,5 @@ Adding to stage text but not commit
 
 Change text in working directory state
 
+##Adding CopyRight in readme md
+
