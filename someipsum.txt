@@ -1,6 +1,8 @@
-Iceland keytar 90's franzen cardigan live-edge kombucha hexagon marfa. Tilde seitan polaroid master cleanse cred, copper mug mustache. Meggings mixtape deep v taxidermy slow-carb wayfarers poke brooklyn knausgaard pickled chambray shoreditch pop-up. Shabby chic shoreditch +1 chia PBR&B. Pork belly tofu pop-up taiyaki hot chicken austin DIY deep v drinking vinegar hella franzen pinterest cray. Scenester la croix marfa XOXO kickstarter, pour-over heirloom austin trust fund retro.
+Iceland keytar 90's franzen cardigan live-edge kombucha hexagon marfa. Tilde seitan polaroid master cleanse cred, copper mug mustache. Meggings mixtape deep v taxidermy slow-carb wayfarers poke brooklyn knausgaard pickled chambray shoreditch extra change from master Shabby chic shoreditch +1 chia PBR&B. Pork belly tofu pop-up taiyaki hot chicken austin DIY deep v drinking vinegar hella franzen pinterest cray. Scenester la croix marfa XOXO kickstarter, pour-over heirloom austin trust fund retro.
+
+Master change in new line
 
 
-Some extra ipsum text to have multiple diff files
+Some extra filler change text to have multiple diff files
 
-Adding changes from master before rebasing conflicts
+Again changing the same line from master after branch has changed and committed
