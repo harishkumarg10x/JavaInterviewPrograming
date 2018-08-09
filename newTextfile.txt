@@ -5,3 +5,6 @@ Some changes done through branching all the  removed some data
 Added new line to from the branch
 
 <!-- Copy right 2018 Hans India --> 
+
+
+Simpel changes
