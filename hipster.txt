@@ -4,3 +4,8 @@ Modified ipsum text added manullay to learn track fields.
 
 Some more extra para for impsum file fdskjfsdfksj sjkfhsdfj sfhsdkjf dsfskjfhfdskj fdskfh
 jsfhsdkjfhskjfhsjkfhskjf skjfhskjfhskf sdsjkfhsfkjhururwerwrweoi k nvvbsvhs
+
+New para to modify the file and move it to staging
+
+
+Changing the file which is in staging already to learn git concepts
