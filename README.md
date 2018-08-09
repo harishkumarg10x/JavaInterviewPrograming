@@ -10,3 +10,5 @@ Change text in working directory state
 
 ##Adding CopyRight in readme md
 
+Some changes in master when branch have some changes 
+
