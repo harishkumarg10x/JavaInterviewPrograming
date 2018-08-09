@@ -4,7 +4,7 @@ Some changes done through branching all the  removed some data
 
 Added new line to from the branch
 
-<!-- Copy right 2018 Hans India --> 
+I dont know what will happen here
 
 
-Simpel changes
+Simpel changes change in master
