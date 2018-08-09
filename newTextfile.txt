@@ -1,4 +1,4 @@
-Some new text file to test tracking removed
+Some new text file to removed
 
 Some changes done through branching all the  removed some data
 
@@ -6,5 +6,6 @@ Added new line to from the branch
 
 I dont know what will happen here
 
+Some intresting text added as new para here
 
 Simpel changes change in master
