@@ -1,1 +1,3 @@
-Some new text file to test tracking files functionality
+Some new text file to test tracking change acutal content
+
+Some changes done through branching all the changes are in barnch
