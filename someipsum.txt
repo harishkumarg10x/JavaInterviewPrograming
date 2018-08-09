@@ -1,7 +1,7 @@
-Iceland keytar 90's franzen cardigan live-edge kombucha hexagon marfa. Tilde seitan polaroid master cleanse cred, copper mug mustache. Meggings mixtape deep v taxidermy slow-carb wayfarers poke brooklyn knausgaard pickled chambray shoreditch Extra changes done here from branch chic shoreditch +1 chia PBR&B. Pork belly tofu pop-up taiyaki hot chicken austin DIY deep v drinking vinegar hella franzen pinterest cray. Scenester la croix marfa XOXO kickstarter, pour-over heirloom austin trust fund retro.
-New Extra line added here from branch
-Master change in new line
+Iceland keytar 90's franzen cardigan live-edge kombucha hexagon marfa. Tilde seitan polaroid master cleanse cred, copper mug mustache. Meggings mixtape deep v taxidermy slow-carb wayfarers poke brooklyn knausgaard pickled chambray shoreditch branch after rebasing conflict fix chic shoreditch +1 chia PBR&B. Pork belly tofu pop-up taiyaki hot chicken austin DIY deep v drinking vinegar hella franzen pinterest cray. Scenester la croix marfa XOXO kickstarter, pour-over heirloom austin trust fund retro.
+
+Master change in new line some e change from branch after fixing rebasing conflict
 
 
 
-Adding changes from master before rebasing conflicts
+Adding changes from master before changed after fixing rebasing conflicts form branch
