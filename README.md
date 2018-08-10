@@ -14,3 +14,5 @@ Some changes in master when branch have some changes
 
 Add some more text in master for rebasing example, added some extra text from myfeature branch too
 
+Some stashing change done and next changed the readme.md
+
