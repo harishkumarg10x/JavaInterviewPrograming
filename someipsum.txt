@@ -13,3 +13,5 @@ Some stashing changes in our code
 some more changes after stashing apply to commit
 
 Changes to stash modified and new files into stash
+
+Stashing change 3

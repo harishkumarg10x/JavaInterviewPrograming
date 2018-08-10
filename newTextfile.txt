@@ -11,3 +11,5 @@ Some intresting text added as new para here
 Simpel changes changed from branch
 
 Some change done in remote repository directly
+
+Some change for stashing 1

@@ -17,3 +17,5 @@ Add some more text in master for rebasing example, added some extra text from my
 Some stashing change done and next changed the readme.md
 
 Stashing untracked files and doing some work on master and commiting them
+
+Stashing change 2
